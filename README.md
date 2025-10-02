@@ -126,4 +126,4 @@ This project is under the Apache 2.0 License unless otherwise specified.
 
 ---
 
-👉 Do you want me to also **generate a `requirements.txt` file** for you automatically from your code so you can just drop it in?
+
